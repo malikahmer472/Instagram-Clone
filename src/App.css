@@ -1,38 +1,134 @@
-.App {
-  text-align: center;
+body{
+  overflow-y: auto;
+}
+.insta
+{
+  border: 1px solid #000;
+  padding-left: 0;
+  padding-right: 0;
+  border-bottom: 2px solid #000;
+}
+.mainlogo
+{
+  width: 160px;
+  height: 85px;
+  margin-left: 20px;
+}
+.messlogo
+{
+  width: 50px;
+  height: 35px;
+}
+.profile-round
+{
+  margin-left: 10px;
+}
+.profile-round img
+{
+width: 55px;
+height:55px;
+border-radius: 50%;
+margin-left: 25px;
+}
+.posthead h6
+{
+margin-bottom: 0;
+margin-left: 0;
+}
+.posthead p
+{ margin-bottom: 0;
+margin-left: -14px;
+}
+.to-banner-im{
+  width:100%;
+  background-color: blue;
+}
+.to-banner-im img{
+  width:100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.for-diff-padd{
+padding-left: 0;
+padding-right: 0;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.likeicon
+{
+  height: 55px;
+  width: 40px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.chaticon
+{
+  height: 50px;
+  width: 41px;
 }
+.postdesc
+{
+  margin-left: 10px;
+  margin-right: 0;
 
-.App-link {
-  color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.the-last-para-style{
+  font-size: 16px;
+  font-weight:lighter;
+}
+.ProfilePic{
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+.profileimg{
+  padding-left: 0;
+  padding-right: 0;
+}
+.messages{
+  border: 1px solid black;
+}
+.Titlename
+{
+  margin-left: 250px;
+  font-size: 25px;
+  font-weight: 200px;
+}
+.Titlename p
+{
+font-weight: 100px;
+}
+.searchbar{
+  width: 100%;
+  height: 50px;
+  border-radius: 20px;
+  background-color: rgb(231, 231, 236);
+border-style: hidden;
+}
+.senderpropic img
+{
+width: 55px;
+height: 55px;
+border-radius: 50%;
+}
+.senderpropic
+{
+  margin-left: 10px;
+}
+.cmntsec
+{
+  border: 1px solid black;
+}
+.cmntID
+{
+  margin-left: 450px;
+}
+.profilePic img
+{
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
+.profilePic
+{
+  margin-left: 10px;
+}
+.profilescrn
+{
+  border: 1px solid black;
 }

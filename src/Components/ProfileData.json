@@ -1,0 +1,60 @@
+[
+  {
+    "Id": "0",
+    "UserId": "TheWeeknd",
+    "Posts": "13k",
+    "UserName": "The Weeknd",
+    "ProfilePic": " https://media.glamour.com/photos/624b1719adac5ac8b3eda9e6/master/pass/1193457473 ",
+    "Profession": "Singer/Songwriter/DJ",
+    "Images": [
+      "https://i.pinimg.com/736x/d3/2e/30/d32e30552817a61849cfdf0f6258bd6f.jpg",
+      "https://i.pinimg.com/736x/d3/2e/30/d32e30552817a61849cfdf0f6258bd6f.jpg",
+      "https://i.pinimg.com/736x/d3/2e/30/d32e30552817a61849cfdf0f6258bd6f.jpg"
+    ],
+    "ProfileDetail": "Singer,Songwriter and DJ",
+    "UserWeb": "theweeknd.com",
+    "Followers": "7.8 M",
+    "Following": "1",
+    "Images": [
+      "https://images.hola.com/us/images/027a-16489d9d9224-afbb8e4f06a1-1000/horizontal-1200/the-weeknd.jpg",
+      "https://images.hola.com/us/images/027a-16489d9d9224-afbb8e4f06a1-1000/horizontal-1200/the-weeknd.jpg",
+      "https://images.hola.com/us/images/027a-16489d9d9224-afbb8e4f06a1-1000/horizontal-1200/the-weeknd.jpg"
+    ]
+  },
+  {
+    "Id": "1",
+    "UserId": "The Drake",
+    "UserName": "Drake ",
+    "Posts": "650",
+    "ProfilePic": "https://mcdn.wallpapersafari.com/medium/8/40/A3VqcO.jpg",
+    "Profession": "Singer/Rapper ",
+    "ProfileDetail": "This is about to get wild",
+    "Images": [
+      "https://wallpaper.dog/large/10894219.jpg",
+      "https://wallpaper.dog/large/10894219.jpg",
+      "https://wallpaper.dog/large/10894219.jpg"
+    ],
+    "UserWeb": "drake.com",
+    "Followers": "7M",
+    "Following": "100"
+   
+  },
+  {
+    "Id": "2",
+    "UserId": "keanu_reeves",
+    "UserName": "Keanu Reeves",
+    "Posts": "1200",
+    "ProfilePic": "https://media.newyorker.com/photos/5cf5728d47f7cc877a506d9b/1:1/w_1765,h_1765,c_limit/Fry-KeanuReeves-2.jpg",
+    "Profession": "Hollywood Actor",
+    "Images": [
+      "https://cdn.vox-cdn.com/thumbor/Dc8bBshDmxtKUCeTFovjt_pz_bM=/0x0:1777x999/1200x800/filters:focal(708x235:992x519)/cdn.vox-cdn.com/uploads/chorus_image/image/63756879/parabellumcover.0.jpg",
+      "https://cdn.vox-cdn.com/thumbor/Dc8bBshDmxtKUCeTFovjt_pz_bM=/0x0:1777x999/1200x800/filters:focal(708x235:992x519)/cdn.vox-cdn.com/uploads/chorus_image/image/63756879/parabellumcover.0.jpg",
+      "https://cdn.vox-cdn.com/thumbor/Dc8bBshDmxtKUCeTFovjt_pz_bM=/0x0:1777x999/1200x800/filters:focal(708x235:992x519)/cdn.vox-cdn.com/uploads/chorus_image/image/63756879/parabellumcover.0.jpg"
+    ],
+    "ProfileDetail": "You are Breathtaking!!!",
+    "UserWeb": "keanreeves.com",
+    "Followers": "78M",
+    "Following": "150"
+ 
+  }
+]
